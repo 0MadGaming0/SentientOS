@@ -1,0 +1,1 @@
+# SentientOS core package

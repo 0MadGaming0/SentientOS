@@ -1,0 +1,23 @@
+SentientOS — Workspace Notes
+=============================
+
+Welcome to the SentientOS workspace sandbox.
+
+This is a sample text file you can read using the Command Centre.
+Try typing: "read notes.txt" in the Command Centre tab.
+
+Key concepts:
+  - Natural language command parsing (rule-based, no LLM)
+  - Security gateway blocking all dangerous operations
+  - Human approval required for file creation
+  - Complete activity logging in SQLite
+  - Isolated file sandbox (./workspace/ only)
+
+Demo commands:
+  list workspace files
+  read notes.txt
+  read readme.md
+  create file myfile.txt with content 'Hello SentientOS!'
+  show system status
+  show security policy
+  help

@@ -1,0 +1,6 @@
+task_id,command,status,created_at
+task-a1b2c3d4,list workspace files,done,2026-10-26T14:00:00
+task-e5f6g7h8,read notes.txt,done,2026-10-26T14:01:30
+task-i9j0k1l2,show system status,done,2026-10-26T14:03:15
+task-m3n4o5p6,create file report.txt,done,2026-10-26T14:05:00
+task-q7r8s9t0,read readme.md,done,2026-10-26T14:07:45
